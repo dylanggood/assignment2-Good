@@ -10,7 +10,7 @@ For anyone looking to visit, I always reccomend the sculpture garden.
 
 ---
 
-### Selection with ordered list
+### Selection with ordered and unordered lists
 
 Epply airfield is the closest airport to Joslyn art museum.
 
