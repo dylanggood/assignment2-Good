@@ -5,3 +5,16 @@ quite the accoomplishment. I have defeated all of the shardbearers including Sta
 great runes. With all of these great runes, I was able to restore the Elden Ring and take my throne.
 
 ![image of me](IMG_4671.jpeg)
+
+---
+
+# Tables
+
+We are going to create a table with my favorite cities!
+
+| City Name | Important Locations | Time Spent |
+| --- | --- | --- |
+| Omaha | Orpheum Theater | 3 hrs |
+| St. Louis | Steel Arch | 2 hrs |
+| Tampa | Holms Beach | 5 hrs |
+| Des Moines | Iowa State Fair | 2 Days |
