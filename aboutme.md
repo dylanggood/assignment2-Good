@@ -18,3 +18,8 @@ We are going to create a table with my favorite cities!
 | St. Louis | Steel Arch | 2 hrs |
 | Tampa | Holms Beach | 5 hrs |
 | Des Moines | Iowa State Fair | 2 Days |
+
+---
+
+> “The true sign of intelligence is not knowledge but imagination." *Albert Einstein*
+> "Believe you can and you're halfway there." *Theodore Roosevelt*
