@@ -25,3 +25,8 @@ Epply airfield is the closest airport to Joslyn art museum.
 9. Keep right, follow signs for 24th Street
 10. Turn right onto N 24th St
 11. Turn left, Destination is on your right.
+
+- Fú Asian Grill
+- Omaha Bazaar
+- Zen Coffee Company
+- Orpheum Theater
